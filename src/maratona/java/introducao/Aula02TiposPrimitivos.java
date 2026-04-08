@@ -26,6 +26,6 @@ public class Aula02TiposPrimitivos {
         System.out.println(untrue);
         System.out.println("Char "+character);
         System.out.println(text);
-        System.out.println("Hello, my name is "+name+", great pleasure");
+        System.out.println("Hello, my name is "+name+", great pleasure!");
     }
 }

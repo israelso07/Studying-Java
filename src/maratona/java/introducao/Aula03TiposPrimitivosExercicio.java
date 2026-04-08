@@ -10,7 +10,7 @@ public class Aula03TiposPrimitivosExercicio {
         String date = "08/04/2026";
         float wear = 2789.90F;
 
-        System.out.println("I "+name+" living in address "+address+", confirm that I received the wear of "+wear+ ", on the date: "+date);
+        System.out.println("I "+name+" living in address "+address+", confirm that I received the wear of "+wear+ ", on the date "+date);
 
     }
 }
