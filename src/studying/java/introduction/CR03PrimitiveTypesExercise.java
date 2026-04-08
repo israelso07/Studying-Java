@@ -1,9 +1,9 @@
-package maratona.java.introducao;
+package studying.java.introduction;
 /*
     Create variables for the fields described below between <> and print the message:
     I <name>, living in address <address>, confirm that I received the wear of <wear>, on the date <date>.
 */
-public class Aula03TiposPrimitivosExercicio {
+public class Aula03PrimitiveTypesExercise {
     public static void main(String[] args) {
         String name = "Israel";
         String address = "Orlando, 321";

@@ -1,6 +1,6 @@
-package maratona.java.introducao;
+package studying.java.introduction;
 
-public class Aula01OlaMundo {
+public class Aula01HelloWorld {
     public static void main(String[] args){
         System.out.println("Olá Mundo");
     }

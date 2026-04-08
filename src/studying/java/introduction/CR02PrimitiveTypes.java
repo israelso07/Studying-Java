@@ -1,6 +1,6 @@
-package maratona.java.introducao;
+package studying.java.introduction;
 
-public class Aula02TiposPrimitivos {
+public class Aula02PrimitiveTypes {
     public static void main(String[] args) {
         // int, double, float, char , byte, short, long , boolean
 
