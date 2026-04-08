@@ -1,6 +1,7 @@
 package studying.java.introduction;
+// Understanding Primitive Types
 
-public class Aula02PrimitiveTypes {
+public class CR02PrimitiveTypes {
     public static void main(String[] args) {
         // int, double, float, char , byte, short, long , boolean
 
